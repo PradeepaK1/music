@@ -12,6 +12,7 @@ ipython==7.16.1
 scikit_learn==0.23.1
 sounddevice
 pillow
+PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
 pyaudio
 datetime
 wave
