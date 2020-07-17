@@ -12,3 +12,6 @@ ipython==7.16.1
 scikit_learn==0.23.1
 sounddevice
 pillow
+pyaudio
+datetime
+wave
